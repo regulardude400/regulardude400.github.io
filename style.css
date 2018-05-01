@@ -98,6 +98,10 @@ section.sec1{
     background-size: cover;
 }
 
+section.sec2{
+    padding: 100px;
+}
+
 /*   COlUMNS */
 
 .col{
